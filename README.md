@@ -9,7 +9,7 @@ For businesses, these user posts contain valuable information about customers' n
 
 ## Dataset and Task
 
-For this assignment, you will use a **labeled dataset** named "FB_posts_labeled.txt". It is a **tab-delimited** file with the following fields:
+I have used **labeled dataset** named "FB_posts_labeled.txt". It is a **tab-delimited** file with the following fields:
 - postId: this is a unique identifier for each user post. There are 7961 posts in total;
 - message: this is the text of each post;
 - Appreciation: this is a binary (0/1) indicator of whether a post is an appreciation;
